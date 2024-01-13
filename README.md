@@ -9,23 +9,23 @@ Create a local clone of the repository
 
 > Running Client Application
 
-Navigate to the directory
-`$ cd RoboController`
-Install Node Modules for Client App
-`$ yarn install`
-Run the Application
-`$ yarn start`
+- Navigate to the directory
+  `$ cd RoboController`
+- Install Node Modules for Client App
+  `$ yarn install`
+- Run the Application
+  `$ yarn start`
 
 > Running Server:
 
-Navigate to the Server directory
-`$ cd RoboController/Server`
-Install Node Modules for Server
-`$ npm install`
-Run the Server
-`$ npm start`
-or
-`$ node server.js`
+- Navigate to the Server directory
+  `$ cd RoboController/Server`
+- Install Node Modules for Server
+  `$ npm install`
+- Run the Server
+  `$ npm start`
+  or
+  `$ node server.js`
 
 #### Dependencies
 
